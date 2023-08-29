@@ -1,4 +1,5 @@
-The Netflix Prediction Model is a data-driven project aimed at enhancing the user experience on the Netflix platform. Leveraging machine learning techniques, this model predicts user preferences and generates personalized recommendations based on their viewing history.
+  ##The Netflix Prediction Model 
+  A data-driven project aimed at enhancing the user experience on the Netflix platform. Leveraging machine learning techniques, this model predicts user preferences and generates personalized recommendations based on their viewing history.
 
 ## Features
 
